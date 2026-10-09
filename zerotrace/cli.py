@@ -25,7 +25,7 @@ BANNER = """[bold cyan]
  /_____\___|_|  \___/      |_|_|  \__,_|\___\___|   
 [/bold cyan]
 [dim bold cyan]  OSINT & Reconnaissance Framework • v1.0.0[/dim bold cyan]
-[dim italic]  https://github.com/yourusername/ZeroTrace[/dim italic]
+[dim italic]  https://github.com/stymrj/ZeroTrace[/dim italic]
 """
 
 def print_result_table(title: str, data: dict):
