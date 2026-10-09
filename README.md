@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Termux%20%7C%20Windows-blueviolet)](https://github.com/)
-[![Stars](https://img.shields.io/github/stars/yourusername/ZeroTrace?style=social)](https://github.com/yourusername/ZeroTrace)
+[![Stars](https://img.shields.io/github/stars/stymrj/ZeroTrace?style=social)](https://github.com/styrj/ZeroTrace)
 
 An asynchronous, visually rich open-source intelligence suite designed for security researchers, ethical hackers, bug bounty hunters, and OSINT investigators.
 
@@ -37,7 +37,7 @@ An asynchronous, visually rich open-source intelligence suite designed for secur
 ### On Linux & macOS
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ZeroTrace.git
+git clone https://github.com/stymrj/ZeroTrace.git
 cd ZeroTrace
 
 # Install required dependencies
@@ -53,7 +53,7 @@ python3 -m zerotrace.cli
 pkg update -y && pkg install python git -y
 
 # Clone and run
-git clone https://github.com/yourusername/ZeroTrace.git
+git clone https://github.com/stymrj/ZeroTrace.git
 cd ZeroTrace
 pip install -r requirements.txt
 python -m zerotrace.cli
